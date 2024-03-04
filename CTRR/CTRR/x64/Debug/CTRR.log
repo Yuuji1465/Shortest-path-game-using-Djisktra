@@ -1,0 +1,13 @@
+﻿  function.cpp
+D:\Downloads\CTRR\CTRR\CTRR\function.cpp(13,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\CTRR\CTRR\CTRR\function.cpp(14,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Downloads\CTRR\CTRR\CTRR\function.cpp(176,22): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\Downloads\CTRR\CTRR\CTRR\function.cpp(176,22): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+D:\Downloads\CTRR\CTRR\CTRR\function.cpp(176,22): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+  Globals.cpp
+  Main.cpp
+D:\Downloads\CTRR\CTRR\CTRR\Main.cpp(12,22): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\Downloads\CTRR\CTRR\CTRR\Main.cpp(12,22): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+D:\Downloads\CTRR\CTRR\CTRR\Main.cpp(53,10): warning C4101: 'correctAns': unreferenced local variable
+  Generating Code...
+  CTRR.vcxproj -> D:\Downloads\CTRR\CTRR\x64\Debug\CTRR.exe
